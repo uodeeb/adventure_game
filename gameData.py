@@ -1,6 +1,4 @@
-import random
-
-
+# build lists of a vailable places, enamies and weapons
 fields=["desert", "woods", "jungle", "island", "castle", "landfills"]
 savePlaces=["cave", "tree house", "bamboo house", "abandoned boat", "hall", "guard room"]
 dangerousPlaces=["tent", "capin", "wooden house", "water cave", "dark room", "cemetry"]
